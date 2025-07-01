@@ -3,6 +3,11 @@
 
 An interactive and visually appealing movie recommendation system built with Pygame and powered by TF-IDF Vectorization and Cosine Similarity from scikit-learn. Users can input the name of a Bollywood movie and get top similar movie recommendations based on genre, theme, and description.
 
+## Preview
+>![Screenshot1](screenshots/ui.png)
+>![Screenshot2](screenshots/recommend.png)
+
+
 **🧠 Features**
 
 🔍 Content-Based Recommendations using NLP
