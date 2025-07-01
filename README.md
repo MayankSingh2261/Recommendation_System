@@ -20,6 +20,7 @@ An interactive and visually appealing movie recommendation system built with Pyg
 
 🎯 Simple and lightweight — no external API required
 
+
 **🚀 How It Works**
 
 Movie descriptions are vectorized using TF-IDF.
