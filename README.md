@@ -15,6 +15,10 @@ An interactive and visually appealing movie recommendation system built with Pyg
 
 🎯 Simple and lightweight — no external API required
 
+## Preview
+>![Screenshot1](screenshots/Screenshot 2025-07-01 114257.png)
+>![Screenshot2](screenshots/Screenshot 2025-07-01 114352.png)
+
 **🚀 How It Works**
 
 Movie descriptions are vectorized using TF-IDF.
